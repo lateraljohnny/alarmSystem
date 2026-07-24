@@ -2,17 +2,17 @@
 
 #Final project for JumpStart Internship Program
 
-#Alarm system using:\n
-#SR Latch (NOR)\n
-#T flip-flop (2 NAND | 1 NOT)\n
-#Connected to 'AND' gate\n
-#NE555P timer\n
-#MCP3008 ADC\n
-#Active Buzzer\n
-#Slide Potentiometer\n
-#DIP Switch\n
-#4x4 Matrix Membrane Keypad\n 
-#1 4-digit and 2 1-digit 7 segment display\n
-#3 Shift registers\n
-#16x32 Adafruit RGB LED Matrix\n 
-#3 Raspberry pis communicated via low level networking \n
+#Alarm system using:<br>
+#SR Latch (NOR)<br>
+#T flip-flop (2 NAND | 1 NOT)<br>
+#Connected to 'AND' gate<br>
+#NE555P timer<br>
+#MCP3008 ADC<br>
+#Active Buzzer<br>
+#Slide Potentiometer<br>
+#DIP Switch<br>
+#4x4 Matrix Membrane Keypad<br>
+#1 4-digit and 2 1-digit 7 segment display<br>
+#3 Shift registers<br>
+#16x32 Adafruit RGB LED Matrix<br>
+#3 Raspberry pis communicated via low level networking<br>
