@@ -46,7 +46,7 @@ temperatureOffsetF = 0.0
 # ==========================================================
 # NETWORK CONFIGURATION
 # ==========================================================
-displayServerIp = [ADD_IP_HERE_TO_DISPLAY_PI]
+displayServerIp = "172.20.1.72"
 displayServerPort = 5005
 
 updateRate = 30
