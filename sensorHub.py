@@ -46,7 +46,7 @@ temperatureOffsetF = 0.0
 # ==========================================================
 # NETWORK CONFIGURATION
 # ==========================================================
-displayServerIp = "172.20.1.72"
+displayServerIp = ""
 displayServerPort = 5005
 
 updateRate = 30
